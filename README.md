@@ -5,7 +5,7 @@ This repository contains the slides and code from my computer science course. It
 ## Course Information
 
 - **Course Title:** [Pointers & memory management]
-- **Course Link:** [[](https://www.youtube.com/@m_abrazeg)]
+- **Course Link:** [[here](https://www.youtube.com/@m_abrazeg)]
 
 ## Instructor Information
 
