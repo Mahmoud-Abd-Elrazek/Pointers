@@ -1,2 +1,27 @@
-# Pointers
-This repository contains the PDFs and code from my pointers &amp; memory management course by using C/C++. It's a useful resource for students and anyone interested in learning.
+# Course Materials and Code
+
+This repository contains the slides and code from my computer science course. It's a helpful resource for students and anyone interested in learning.
+
+## Course Information
+
+- **Course Title:** [Pointers & memory management]
+- **Course Link:** [[Insert Course Link Here](https://www.youtube.com/@m_abrazeg)]
+
+## Instructor Information
+
+- **Name:** [Mahmoud Abdelrazek CS student SVU Eygpt]
+- **Email:** [mahmoudzanitty@gmail.com]
+
+## YouTube Channel
+
+For more programming-related content, check out my YouTube channel: [My YouTube Channel](https://www.youtube.com/@m_abrazeg)
+
+## How to Use
+
+1. Browse the folders to find the slides and code for each module.
+2. Open the slides to review the course material.
+3. Run the code to see practical examples of the concepts covered.
+
+## License
+
+This repository is open for educational purposes. Feel free to use the materials.
