@@ -1,6 +1,6 @@
 # Course Materials and Code
 
-This repository contains the slides and code from my computer science course. It's a helpful resource for students and anyone interested in learning.
+This repository contains the PDFs and code from my computer science course. It's a helpful resource for students and anyone interested in learning.
 
 ## Course Information
 
