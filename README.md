@@ -5,7 +5,7 @@ This repository contains the PDFs and code from my computer science course. It's
 ## Course Information
 
 - **Course Title:** [Pointers & memory management]
-- **Course Link:** [[here](https://www.youtube.com/@m_abrazeg)]
+- **Course Link:** [[here](https://youtube.com/playlist?list=PL2xsPNbpw3oh7LOSc4uMYuh9XiGGjCJY7&si=Pm4tgHriD7e6dXvX)]
 
 ## Instructor Information
 
