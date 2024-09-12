@@ -1,0 +1,39 @@
+Memory - Storage area [Data & instructions]
+large array of bytes, for each byte has an address.
+
+We express these addresses in base 16 numbers. For instance, 
+the smallest possible address is 0x00000000 (where the 0x means base 16), and 
+the largest possible address could be 0xFFFFFFFF.
+
+Stack:
+Stack memory is a region of memory used for storing local variables and function call information during program execution.
+
+- follows a Last In, First Out (LIFO) structure.
+- Store temporary data (local variables) created by functions.
+- grows downward as more data is added. 
+
+Key characteristics of stack memory:
+    1] Automatic memory management: When a function is called, its local variables are automatically allocated on the stack, and when the function returns, the memory is automatically deallocated.
+    
+    2] Function call management: The stack holds return addresses, parameters, and local variables for each function call.
+
+    2] Limited size: Stack memory is limited in size compared to heap memory. A stack overflow occurs if too much memory is used, typically through deep recursion.
+    stack is typically a few megabytes (e.g., 1 MB to 8 MB by default)
+
+    3] Fast access: Accessing stack memory is faster because it is managed directly by the CPU.
+
+    In summary, the stack is used for temporary data storage that is automatically managed and limited in size, making it ideal for function calls and local variables.
+
+
+2] Heap memory: Memory allocated to heaps can be dynamically allocated, unlike memory allocated to stacks. also known as “dynamic” memory.
+
+- variables that are created during program execution(runtime) are called dynamic variables with the help of pointers C++ creates dynamic variables. New , delete create and destroy dynamic variables. reserved words.
+
+- Store data not tied to a specific function.
+- No specific order (structure).
+- larger size. used for larg, complex data structures.
+- Dynamic allocation and deallocation during runtime. more flexible.
+
+- more challenging.
+- lead to memory leaks or other memory-related errors.
+- slower than stack memory.
